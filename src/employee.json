@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "Developer",
+        "firstName": "John",
+        "lastName": "Eric",
+        "salary": 5000,
+        "path": "https://d2pyicwmjx3wii.cloudfront.net/s/5997cc7c4d6e8ffa20e50aae/601d6e74cbfb666ae1145869/webp/elementary-school-480x480.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Tester",
+        "firstName": "Andrew",
+        "lastName": "Johnson",
+        "salary": 6000,
+        "path": "https://d2pyicwmjx3wii.cloudfront.net/s/5997cc7c4d6e8ffa20e50aae/601d6e74cbfb666ae1145869/webp/elementary-school-480x480.jpg"
+    }
+]
