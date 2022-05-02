@@ -30,7 +30,7 @@ function App(props) {
   return (
     //Bootstrap Navbar
     <div className="App">
-      {/* <Navbar fixed='top' bg="secondary" expand="lg">
+      <Navbar fixed='top' bg="secondary" expand="lg">
         <Container>
           <Navbar.Brand href="#home"><img
             src={logo} //import logo from './React.jpg';
@@ -54,11 +54,11 @@ function App(props) {
             </Nav>
           </Navbar.Collapse>
         </Container>
-      </Navbar><br></br><br></br><br></br><br></br><br></br><br></br> */}
+      </Navbar><br></br><br></br><br></br><br></br><br></br><br></br> 
       {/*Components Demo*/}
-      {/* <ClassComp /> */}
+       <ClassComp /> 
       {/*Home.js Display function*/}
-      {/* <Display></Display> */}
+       <Display></Display> 
       {/*React Props */}
       <div>
 
